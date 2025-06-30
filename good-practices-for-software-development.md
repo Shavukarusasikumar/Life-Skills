@@ -1,4 +1,6 @@
-## Question 1: Which point(s) were new to you?
+# Good Practices for Software Development
+
+### Question 1: Which point(s) were new to you?
 
 Some new points for me were:
 
@@ -9,7 +11,7 @@ Some new points for me were:
 
 ---
 
-## Question 2: Which area do you think you need to improve on? What are your ideas to make progress in that area?
+### Question 2: Which area do you think you need to improve on? What are your ideas to make progress in that area?
 
 I need to improve on **communicating clearly when I'm stuck**.
 
